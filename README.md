@@ -29,4 +29,4 @@ Textract is distributed as a self-contained application. You do not need to inst
 
 ## License
 Textract is proprietary software developed by **MARK by Muhammad Azmi**.  
-For licensing details, please refer to the `EULA.txt` file.
+For licensing details, please refer to the `LICENSE.txt` file.
