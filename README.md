@@ -1,3 +1,5 @@
+<img width="512" height="512" alt="T" src="https://github.com/user-attachments/assets/54875e62-e5d3-43f7-be66-5086da7faf09" />
+
 # Textract
 **Native OCR Sniper & Precision Image Editor for Windows**
 
