@@ -1,5 +1,4 @@
-<img width="128" height="128" alt="T (1)" src="https://github.com/user-attachments/assets/d528174c-2d93-4b3d-bd69-c06b11d6b636" />
-
+<img width="128" height="128" alt="T (2) (1)" src="https://github.com/user-attachments/assets/58d7adf1-53db-496f-81ed-08ab79d622f1" />
 
 # MarkSnip
 **Native OCR Sniper & Precision Image Editor for Windows**
