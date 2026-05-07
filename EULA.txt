@@ -1,0 +1,27 @@
+END USER LICENSE AGREEMENT (EULA) FOR TEXTRACT
+
+Developer: Muhammad Azmi (MARK)
+Copyright (c) 2026 Muhammad Azmi. All rights reserved.
+
+IMPORTANT-READ CAREFULLY: This End User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and the Developer for the software product identified above ("Software"). By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this EULA.
+
+1. GRANT OF LICENSE
+The Developer grants you a limited, non-exclusive, non-transferable license to install and use the executable form of the Software for personal or commercial purposes.
+
+2. RESTRICTIONS
+You may not:
+a. Modify, translate, reverse engineer, decompile, or disassemble the Software.
+b. Rent, lease, lend, sell, or redistribute the Software for profit without explicit written permission from the Developer.
+c. Remove or alter any proprietary notices or labels on the Software.
+
+3. OWNERSHIP
+The Software is licensed, not sold. The Developer retains all right, title, and interest in and to the Software, including all copyrights, patents, trade secrets, and other intellectual property rights.
+
+4. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE DEVELOPER DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED.
+
+5. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, INCLUDING ANY LOSS OF DATA OR BUSINESS INTERRUPTION.
+
+6. TERMINATION
+This EULA is effective until terminated. Your rights under this EULA will terminate automatically without notice if you fail to comply with any of its terms. Upon termination, you must destroy all copies of the Software.
