@@ -1,10 +1,10 @@
 <img width="128" height="128" alt="T (1)" src="https://github.com/user-attachments/assets/d528174c-2d93-4b3d-bd69-c06b11d6b636" />
 
 
-# Textract
+# MarkSnip
 **Native OCR Sniper & Precision Image Editor for Windows**
 
-Textract is a lightweight, offline-first desktop utility that combines screen snipping, in-place image annotation, and Optical Character Recognition (OCR). Built natively for Windows, it extracts text from any screen area and provides a suite of markup tools without relying on cloud services.
+MarkSnip is a lightweight, offline-first desktop utility that combines screen snipping, in-place image annotation, and Optical Character Recognition (OCR). Built natively for Windows, it extracts text from any screen area and provides a suite of markup tools without relying on cloud services.
 
 ## Features
 * **Instant OCR:** Extract text from protected websites, PDFs, or images using the native Windows OCR API.
@@ -14,12 +14,12 @@ Textract is a lightweight, offline-first desktop utility that combines screen sn
 * **Modern UI:** Built with WPF and styled with Windows 11 Fluent Design (Mica backdrop).
 
 ## Installation
-Textract is distributed as a self-contained application. You do not need to install the .NET runtime manually.
+MarkSnip is distributed as a self-contained application. You do not need to install the .NET runtime manually.
 
 1. Navigate to the [Releases](../../releases) page.
 2. Download the latest `Textract_Setup_v1.0.0.exe`.
 3. Run the installer. 
-4. Textract will run in your system tray.
+4. MarkSnip will run in your system tray.
 
 ## Shortcuts
 | Key | Action |
@@ -31,5 +31,5 @@ Textract is distributed as a self-contained application. You do not need to inst
 | `Esc` | Cancel snip / Close editor |
 
 ## License
-Textract is proprietary software developed by **MARK by Muhammad Azmi**.  
+MarkSnip is proprietary software developed by **Muhammad Azmi**.  
 For licensing details, please refer to the `LICENSE.txt` file.
