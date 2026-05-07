@@ -1,6 +1,6 @@
 THIRD-PARTY NOTICES
 
-Textract uses the following open-source software and libraries. We are grateful to the open-source community and the respective authors for their contributions.
+MarkSnip uses the following open-source software and libraries. We are grateful to the open-source community and the respective authors for their contributions.
 
 1. WPF-UI
    Author: Leszek Pomian
