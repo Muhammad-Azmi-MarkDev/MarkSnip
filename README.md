@@ -16,7 +16,7 @@ MarkSnip is a lightweight, offline-first desktop utility that combines screen sn
 MarkSnip is distributed as a self-contained application. You do not need to install the .NET runtime manually.
 
 1. Navigate to the [Releases](../../releases) page.
-2. Download the latest `Textract_Setup_v1.0.0.exe`.
+2. Download the latest `MarkSnip_Setup_v1.0.0.exe`.
 3. Run the installer. 
 4. MarkSnip will run in your system tray.
 
