@@ -1,4 +1,4 @@
-END USER LICENSE AGREEMENT (EULA) FOR TEXTRACT
+END USER LICENSE AGREEMENT (EULA) FOR MARKSNIP
 
 Developer: Muhammad Azmi (MARK)
 Copyright (c) 2026 Muhammad Azmi. All rights reserved.
