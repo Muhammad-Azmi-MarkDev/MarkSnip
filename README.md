@@ -30,5 +30,4 @@ MarkSnip is distributed as a self-contained application. You do not need to inst
 | `Esc` | Cancel snip / Close editor |
 
 ## License
-MarkSnip is proprietary software developed by **Muhammad Azmi**.  
 For licensing details, please refer to the `LICENSE.txt` file.
