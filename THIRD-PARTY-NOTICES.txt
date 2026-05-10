@@ -17,6 +17,11 @@ MarkSnip uses the following open-source software and libraries. We are grateful 
    Repository: https://github.com/thomaslevesque/NHotkey
    License: Apache 2.0 License
 
+4. ZXing.Net
+   Author: micjahn
+   Repository: https://github.com/micjahn/ZXing.Net
+   License: Apache 2.0 License
+
 ========================================================================
 
 MIT LICENSE TEXT
@@ -44,6 +49,7 @@ SOFTWARE.
 APACHE LICENSE 2.0
 The following library is licensed under the Apache License 2.0:
 - NHotkey (https://github.com/thomaslevesque/NHotkey)
+- ZXing.Net (https://github.com/micjahn/ZXing.Net)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
